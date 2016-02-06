@@ -112,7 +112,7 @@ header,
   p {
      text-align: left;
      width: 80%;
-     align-items: center; 
+     
          
  }
  
@@ -134,7 +134,7 @@ header,
  
  h3 {
      
-     text-align: center;
+     text-align: left;
      color: #962D3E;
      font-weight: 100;    
  }
