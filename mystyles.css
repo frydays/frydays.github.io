@@ -74,10 +74,9 @@ header,
  }
  
  .center {
-     font-family: Helvetica, Arial, sans-serif;
-     width: 64%;
-     padding: 3%;
      margin: auto;
+     width: 60%;
+     padding: 1px;
      
  } 
  
